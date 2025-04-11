@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vlad
-- 👀 I’m interested in Data Analysis, Data Analytics, Tableau, Amplitude, financial instruments  
-- 🌱 I’m improving my knowledge SQL, Python
-- 💞️ I’m looking to collaborate on Data Analysis, using BI instruments
+- 👀 I’m interested in OSINT investigation, Data Analytics, Tableau, Amplitude, financial instruments  
+- 🌱 I’m improving my knowledge investigation tools, SQL, Python  
+- 💞️ I’m looking to collaborate on OSINT, using investigation instruments
 - 📫 How to reach me www.linkedin.com/in/vladyslav-f-471143317/
 - 😄 Pronouns: her/him 
 - ⚡ Fun fact: I'm a switcher )
