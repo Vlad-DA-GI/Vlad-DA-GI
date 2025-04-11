@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vlad
-- 👀 I’m interested in OSINT investigation, Data Analytics, Tableau, Amplitude, financial instruments  
+- 👀 I’m interested in OSINT investigation, investigation tools 
 - 🌱 I’m improving my knowledge investigation tools, SQL, Python  
 - 💞️ I’m looking to collaborate on OSINT, using investigation instruments
 - 📫 How to reach me www.linkedin.com/in/vladyslav-f-471143317/
