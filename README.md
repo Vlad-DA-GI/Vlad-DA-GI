@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vlad
-- 👀 I’m interested in OSINT investigation, investigation tools 
-- 🌱 I’m improving my knowledge investigation tools, SQL, Python  
-- 💞️ I’m looking to collaborate on OSINT, using investigation instruments
+- 👀 I’m interested in OSINT investigation, investigation tools, ethical hacking 
+- 🌱 I’m improving my knowledge investigation tools, SQL, Python, Reconnaissance, Vulnerability Scanning, Pentesting Tools, Social Engineering 
+- 💞️ I’m looking to collaborate on OSINT, using investigation tools 
 - 📫 How to reach me www.linkedin.com/in/vladyslav-f-471143317/
 - 😄 Pronouns: her/him 
 - ⚡ Fun fact: I'm a switcher )
